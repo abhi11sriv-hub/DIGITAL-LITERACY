@@ -70,7 +70,7 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Create
 ### Task 3 – Coding & Collaboration Platforms
 Completed the **"Solve Me First"** challenge on HackerRank using Python. Built a **5-question Digital Literacy Awareness Quiz** on Google Forms (link below), connected to a Google Sheet for response tracking.
 
-🔗 **Google Form Link (Digital Literacy Quiz):** [Insert your Google Form link here]
+🔗 **Google Form Link (Digital Literacy Quiz):** (https://docs.google.com/forms/d/e/1FAIpQLSedpoO052XSWBm2AaH-gnfmENr0vIHErcqJbCszR4M5AcKITg/viewform?usp=header)
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Also created a comprehensive social media **Do's and Don'ts checklist** with 7 tips in each category.
