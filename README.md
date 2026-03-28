@@ -7,12 +7,12 @@
 
 | Field | Details |
 |---|---|
-| **Name** | [Your Full Name] |
-| **Registration Number** | [Your Reg No.] |
+| **Name** | abhi srivastava |
+| **Registration Number** | 25bai10678 |
 | **Branch** | B.Tech – Computer Science and Engineering |
 | **Year** | First Year (2024–2025) |
 | **Course** | CSE0001 – Digital Literacy |
-| **Submission Date** | [Date] |
+| **Submission Date** | 28/3/29 |
 
 ---
 
@@ -84,9 +84,9 @@ Researched **UPI / Online Payment Fraud** and wrote a 240-word realistic case st
 
 | Platform | Link |
 |---|---|
-| GitHub | [github.com/yourusername](https://github.com/yourusername) |
-| LinkedIn | [linkedin.com/in/yourname](https://linkedin.com/in/yourname) |
-| Kaggle | [kaggle.com/yourusername](https://kaggle.com/yourusername) |
+| GitHub | [github.com/yourusername](https://github.com/abhi11sriv-hub)|
+| LinkedIn | [linkedin.com/in/yourname](https://www.linkedin.com/in/abhi-srivastava-a52ab3337/) |
+| Kaggle | [kaggle.com/yourusername](https://www.kaggle.com/abhisrivastava0711)|
 
 ---
 
